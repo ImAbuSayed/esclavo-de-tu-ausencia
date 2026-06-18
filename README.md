@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/esclavo-de-tu-ausencia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Esclavo de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tu-ausencia/) |
+| **Get License** | [Obtain a Music License for Esclavo de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tu-ausencia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche tú te escapas, baby, a mi la'o
+> Con ese vestido negro me tienes envicia'o
+> Tengo el cuarto oscuro y el cora acelera'o
+> Soy un esclavo de tu ausencia, mami, estoy tira'o
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
