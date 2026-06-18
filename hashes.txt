@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Esclavo de tu ausencia
+
+This log tracks the cryptographic history and versioning for the song **Esclavo de tu ausencia** (esclavo-de-tu-ausencia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:28:19.467314 | `v1` | `fed15a4187012343137ccbabdd2c07fb2e07b154860f28363f4845fd0eee36a8` | `98026ab0d06dbc715d93e970d6bbf91df6af745f04fe4454e2347739985ef29f` | `2026-06-18_esclavo-de-tu-ausencia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/esclavo-de-tu-ausencia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Esclavo de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tu-ausencia/) |
+| **Get License** | [License this song: Esclavo de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tu-ausencia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fed15a4187012343137ccbabdd2c07fb2e07b154860f28363f4845fd0eee36a8` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
